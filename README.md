@@ -1,4 +1,4 @@
-# Emergency Blood Donor Finder
+# Lifeline Donor Network
 
 A role-based blood donor management platform built using Spring Boot, Spring Security, JWT Authentication, Hibernate JPA, MySQL, and REST APIs.
 
